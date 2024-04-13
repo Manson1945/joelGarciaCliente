@@ -32,7 +32,7 @@ const renderFooter = ()=> {
         <a href="https://instagram.com/joel_garcia_369?igshid=MzRlODBiNWFlZA=="><i class="fa-brands fa-instagram"></i> <h4> @JOEL_GARCIA_369 </h4> </a>
         <a href="https://www.facebook.com/joelgarcia369?mibextid=ZbWKwL"><i class="fa-brands fa-square-facebook"></i> <h4> JOEL GARCIA </h4> </a> 
     
-    <h4><i class="fa-solid fa-phone"></i> 2072-8287</h4>
+    <h4><i class="fa-solid fa-mobile-screen"></i> 11-2657-3919</h4>
 </section>
 
 

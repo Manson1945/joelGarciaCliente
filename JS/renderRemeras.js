@@ -93,7 +93,7 @@ fetch("./productos.json")
     
         let salida = "";
 
-       const remeras =  productos.filter (productos => productos.id <= 16)
+       const remeras =  productos.filter (productos => productos.id <= 18)
 
         /* console.log(remeras); */
         
